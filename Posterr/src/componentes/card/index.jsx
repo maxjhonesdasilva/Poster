@@ -14,6 +14,4 @@ export default function Card() {
                 <Button />
             </div>
         </div>
-    )//
-    //
-    
+    )
